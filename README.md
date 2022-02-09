@@ -40,4 +40,6 @@ print("Product of two arrays is:",result)
 
 
 ## RESULT:
+Thus the program is written to Multiplying two matrix
+
 

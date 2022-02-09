@@ -1,6 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To write a python program for Multiplying two matrix.
 
 ## ALGORITHM:
 ### Step 1:

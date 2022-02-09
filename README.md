@@ -38,5 +38,6 @@ print("Product of two arrays is:",result)
 ## OUTPUT:
 ![output](
 
+
 ## RESULT:
 

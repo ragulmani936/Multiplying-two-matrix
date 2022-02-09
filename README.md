@@ -3,12 +3,20 @@
 ## AIM:
 
 ## ALGORITHM:
-
 ### Step 1:
+Get the input from the user
+
 ### Step 2:
+use append() to add new elements in the list
+
 ### Step 3:
+Get the input from the user using np.array()
+
 ### Step 4:
+result = value1*value2 it will multiply the array and print the output
+
 ### Step 5:
+End the program
 
 ## PROGRAM: 
 ~~~
